@@ -18,11 +18,6 @@ I work mostly on the backend: scalable REST APIs, microservices, performance tun
 - Integrated APIs with frontend teams through clear documentation and versioning
 - Helped set up CI/CD pipelines and deployment automation with Git and Docker
 
-## 🏆 Recognition
-
-- **Team Pillar Award**: for being a dependable team player through collaboration, ownership and technical contributions
-- **Goal-Done-Goose Award**: for collaborating across multiple teams on cross-functional development and integration
-
 ## 🛠️ Tech Stack
 
 | | |
