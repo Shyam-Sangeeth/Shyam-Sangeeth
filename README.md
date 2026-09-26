@@ -4,20 +4,6 @@
 
 I work mostly on the backend: scalable REST APIs, microservices, performance tuning and secure auth. I also help out on the frontend with React and Ant Design, and I mentor other developers on clean architecture and debugging.
 
-## 💼 Experience
-
-**Software Engineer 1 (Full Stack Developer)** · Rakuten India · *Mar 2024 – Present*
-- Build and maintain scalable REST APIs with NodeJS, Express and MySQL
-- Lead and mentor backend developers, which cut production issues by **25%**
-- Migrated legacy Python services into modular NodeJS microservices with CI/CD
-- Improved backend performance by **35%** with optimized DB queries, background job queues and async processing
-- Implemented authentication, RBAC authorization and input validation
-
-**Associate Software Engineer (Full Stack Developer)** · Rakuten India · *Nov 2021 – Mar 2024*
-- Developed server-side features and RESTful APIs in NodeJS for business-critical apps
-- Integrated APIs with frontend teams through clear documentation and versioning
-- Helped set up CI/CD pipelines and deployment automation with Git and Docker
-
 ## 🚀 Projects
 
 **[OmniOS](https://github.com/Shyam-Sangeeth/OmniOS)** · *C++20, Qt 6 / QML, Arch Linux* · 🚧 in progress<br>
