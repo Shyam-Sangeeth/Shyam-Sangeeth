@@ -18,6 +18,17 @@ I work mostly on the backend: scalable REST APIs, microservices, performance tun
 - Integrated APIs with frontend teams through clear documentation and versioning
 - Helped set up CI/CD pipelines and deployment automation with Git and Docker
 
+## 🚀 Projects
+
+**[OmniOS](https://github.com/Shyam-Sangeeth/OmniOS)** · *C++20, Qt 6 / QML, Arch Linux* · 🚧 in progress<br>
+A gaming operating system built on Arch Linux. It boots from USB into a KDE Plasma desktop with a controller-friendly **Game Mode**, a PS5-style tile launcher that builds your library from `~/Games` and Steam. It runs Linux games natively, Windows games through Steam and Proton, and console games through emulators. It includes its own installer and sign-in screen, and the ISO builds in Docker and is tested in QEMU.
+
+**[Netflix 5.1 Surround for Edge](https://github.com/Shyam-Sangeeth/Edge_5.1_Audio_Netflix)** · *JavaScript, browser extension*<br>
+A Microsoft Edge extension that unlocks 5.1 surround audio on Netflix, which normally plays in stereo on desktop, in both the Edge browser and the Windows Netflix app.
+
+**[Scanner](https://github.com/Shyam-Sangeeth/Scanner)** · *Java, Android*<br>
+An Android QR code scanner that recognizes URLs, phone numbers, SMS, email, Wi-Fi credentials and vCards, and offers the right action for each.
+
 ## 🛠️ Tech Stack
 
 | | |
@@ -30,7 +41,7 @@ I work mostly on the backend: scalable REST APIs, microservices, performance tun
 ## 🌱 Outside Work
 
 - 👀 Interested in IoT, game development and OS development
-- 🎮 Currently learning game development
+- 🎮 Currently building OmniOS and learning game development
 
 ## 📫 Reach Me
 
