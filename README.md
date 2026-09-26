@@ -27,10 +27,6 @@ I work mostly on the backend: scalable REST APIs, microservices, performance tun
 | **Databases** | MySQL, MongoDB |
 | **DevOps** | Docker, Kubernetes, Jenkins, Git, CI/CD |
 
-## 🎓 Education
-
-**B.Tech, Computer Science and Engineering**, College of Engineering, Vadakara, Kozhikode · *2017 – 2021*
-
 ## 🌱 Outside Work
 
 - 👀 Interested in IoT, game development and OS development
