@@ -31,7 +31,6 @@ An Android QR code scanner that recognizes URLs, phone numbers, SMS, email, Wi-F
 
 ## 🛠️ Tech Stack
 
-| | |
 |---|---|
 | **Languages** | JavaScript, TypeScript, Python, C++, Java, C |
 | **Frameworks & Libraries** | Node.js, Express, React, Ant Design, Flask, Bootstrap, Jest, SQLAlchemy, Sequelize |
