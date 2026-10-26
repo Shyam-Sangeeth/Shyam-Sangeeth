@@ -41,8 +41,3 @@ A Microsoft Edge extension that unlocks 5.1 surround audio on Netflix, which nor
 
 - 👀 Interested in PC audio, IoT, game development and OS development
 - 🎮 Currently building AudioDesk, Knob Hub and OmniOS
-
-## 📫 Reach Me
-
-- Email: [shyamsangeethofficial@gmail.com](mailto:shyamsangeethofficial@gmail.com)
-- Instagram: [@shyam_sangeeth](https://www.instagram.com/shyam_sangeeth/)
