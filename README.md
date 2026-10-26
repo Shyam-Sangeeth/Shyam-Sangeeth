@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="projects-banner.svg" width="100%" alt="Shyam Sangeeth: AudioDesk, Knob Hub, SensorPanel, OmniOS and 5.1 Surround"/>
+<img src="projects-banner.svg" width="100%" alt="Shyam Sangeeth: an electric brain wired to AudioDesk, Knob Hub, Knob Hub Apps, SensorPanel, OmniOS and 5.1 Surround"/>
 
 </div>
 
