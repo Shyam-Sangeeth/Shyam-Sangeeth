@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="projects-banner.svg" width="100%" alt="Shyam Sangeeth: an electric brain wired to AudioDesk, Knob Hub, Knob Hub Apps, SensorPanel, OmniOS and 5.1 Surround"/>
+<img src="projects-banner.svg" width="100%" alt="Shyam Sangeeth: an electric brain wired to AudioDesk, CastDesk, Knob Hub, Knob Hub Apps, SensorPanel, OmniOS and 5.1 Surround"/>
 
 </div>
 
@@ -12,6 +12,9 @@
 
 **[AudioDesk](https://github.com/Shyam-Sangeeth/AudioDesk)** · *C#, WPF, Windows*<br>
 A helper for SteelSeries Sonar. For each channel (Game, Media, Aux) you choose whether apps go through Sonar for its EQ and effects, or bypass it and play lossless on your real device at its full sample rate, bit depth and channel count. It also adds profiles, presets per device and more control over Sonar.
+
+**[CastDesk](https://github.com/Shyam-Sangeeth/CastDesk)** · *C#, WinForms, WebView2*<br>
+Cast YouTube from your phone to your Windows PC. The phone's YouTube app finds the PC in its Cast menu like a smart TV (CastDesk answers its SSDP and DIAL discovery), and the video plays in YouTube's own TV app, so quality up to 4K, sign-in and the phone's controls all work. It runs in the tray, and updates itself from GitHub releases.
 
 **[Knob Hub](https://github.com/Shyam-Sangeeth/KnobHub)** · *C (LVGL), C#, ESP32-S3*<br>
 A turnable, touchable PC controller built on the Elecrow CrowPanel 1.28" round knob display. Its firmware, Knob OS, only draws screens; the apps run on the PC as Knob Hub plugins, so a new app needs no firmware update. Apps so far: AudioDesk, Media and Counter.

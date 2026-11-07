@@ -1,31 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" width="1000" height="330">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 435" width="1000" height="435">
 <defs><pattern id="g" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#0f1f3c" stroke-width="0.6"/></pattern><linearGradient id="eq" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#2f7fff"/><stop offset="1" stop-color="#5ee6ff"/></linearGradient><radialGradient id="aura"><stop offset="0" stop-color="#5ee6ff" stop-opacity="0.28"/><stop offset="1" stop-color="#5ee6ff" stop-opacity="0"/></radialGradient><filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect width="1000" height="330" fill="#070d1c"/>
-<rect width="1000" height="330" fill="url(#g)"/>
-<path d="M412 60 H250" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
-<path d="M412 60 H250" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="2.2s" begin="0.00s" repeatCount="indefinite"/></path>
-<path d="M386 150 H280 V165 H250" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
-<path d="M386 150 H280 V165 H250" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="2.7s" begin="2.25s" repeatCount="indefinite"/></path>
-<path d="M420 190 H300 V270 H250" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
-<path d="M420 190 H300 V270 H250" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="3.2s" begin="2.30s" repeatCount="indefinite"/></path>
+<rect width="1000" height="435" fill="#070d1c"/>
+<rect width="1000" height="435" fill="url(#g)"/>
+<path d="M412 112.5 H330 V60 H250" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
+<path d="M412 112.5 H330 V60 H250" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="2.2s" begin="0.00s" repeatCount="indefinite"/></path>
+<path d="M378 165 H250" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
+<path d="M378 165 H250" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="2.5s" begin="1.10s" repeatCount="indefinite"/></path>
+<path d="M386 202.5 H290 V270 H250" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
+<path d="M386 202.5 H290 V270 H250" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="2.7s" begin="2.25s" repeatCount="indefinite"/></path>
+<path d="M420 242.5 H310 V375 H250" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
+<path d="M420 242.5 H310 V375 H250" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="3.2s" begin="2.30s" repeatCount="indefinite"/></path>
+<path d="M447 93 V14 H330" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
+<path d="M447 93 V14 H330" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="3.2s" begin="0.50s" repeatCount="indefinite"/></path>
+<circle cx="330" cy="14" r="3" fill="#070d1c" stroke="#1d3a66" stroke-width="1.5"/>
+<path d="M553 93 V14 H670" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
+<path d="M553 93 V14 H670" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="2.2s" begin="0.80s" repeatCount="indefinite"/></path>
+<circle cx="670" cy="14" r="3" fill="#070d1c" stroke="#1d3a66" stroke-width="1.5"/>
+<g transform="translate(0 52.5)">
 <path d="M588 60 H750" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
 <path d="M588 60 H750" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="3.7s" begin="2.35s" repeatCount="indefinite"/></path>
 <path d="M614 150 H720 V165 H750" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
 <path d="M614 150 H720 V165 H750" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="2.2s" begin="0.40s" repeatCount="indefinite"/></path>
 <path d="M580 190 H700 V270 H750" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
 <path d="M580 190 H700 V270 H750" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="2.7s" begin="0.45s" repeatCount="indefinite"/></path>
-<path d="M447 40 V14 H330" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
-<path d="M447 40 V14 H330" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="3.2s" begin="0.50s" repeatCount="indefinite"/></path>
-<circle cx="330" cy="14" r="3" fill="#070d1c" stroke="#1d3a66" stroke-width="1.5"/>
-<path d="M388 90 V104 H300" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
-<path d="M388 90 V104 H300" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="3.7s" begin="0.55s" repeatCount="indefinite"/></path>
-<circle cx="300" cy="104" r="3" fill="#070d1c" stroke="#1d3a66" stroke-width="1.5"/>
-<path d="M553 40 V14 H670" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
-<path d="M553 40 V14 H670" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="2.2s" begin="0.80s" repeatCount="indefinite"/></path>
-<circle cx="670" cy="14" r="3" fill="#070d1c" stroke="#1d3a66" stroke-width="1.5"/>
 <path d="M612 90 V104 H700" fill="none" stroke="#1d3a66" stroke-width="1.5"/>
 <path d="M612 90 V104 H700" fill="none" stroke="#5ee6ff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="6 94"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="2.7s" begin="1.35s" repeatCount="indefinite"/></path>
 <circle cx="700" cy="104" r="3" fill="#070d1c" stroke="#1d3a66" stroke-width="1.5"/>
+</g>
+<g transform="translate(0 52.5)">
 <ellipse cx="500" cy="122" rx="172" ry="132" fill="url(#aura)"><animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/></ellipse>
 <path d="M494.0 30.0 Q469.8 18.4 452.3 35.5 Q425.4 32.4 415.6 51.5 Q391.1 56.9 388.3 76.0 Q369.8 87.9 373.9 106.0 Q362.7 122.0 373.9 138.0 Q369.8 156.1 388.3 168.0 Q391.1 187.1 415.6 192.5 Q425.4 211.6 452.3 208.5 Q469.8 225.6 494.0 214.0 Q488.0 168.0 494.0 122.0 Q496.0 76.0 494.0 30.0Z" fill="#0a2350" fill-opacity="0.9" stroke="#5ee6ff" stroke-width="2.2" stroke-linejoin="round" filter="url(#glow)"/>
 <path d="M494.0 55.8 Q471.0 46.1 455.9 62.3 Q431.5 62.9 425.3 80.7 Q406.5 90.2 408.4 107.3 Q398.0 122.0 408.4 136.7 Q406.5 153.8 425.3 163.3 Q431.5 181.1 455.9 181.7 Q471.0 197.9 494.0 188.2 Q488.0 155.1 494.0 122.0 Q496.0 88.9 494.0 55.8Z" fill="none" stroke="#5ee6ff" stroke-width="1.2" stroke-linejoin="round" opacity="0.55"/>
@@ -112,6 +114,7 @@
 <line x1="500" y1="34" x2="500" y2="210" stroke="#5ee6ff" stroke-width="2" stroke-linecap="round" pathLength="100" stroke-dasharray="10 90" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="100" to="0" dur="2s" repeatCount="indefinite"/></line>
 <text x="500" y="262" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#eaf2ff" letter-spacing="3">SHYAM SANGEETH</text>
 <text x="500" y="288" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="12" fill="#5ee6ff" letter-spacing="4">FULL STACK DEVELOPER</text>
+</g>
 <rect x="30" y="20" width="220" height="80" rx="10" fill="#0b1833" stroke="#2a5a9a" stroke-width="1.5"/>
 <text x="114" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#eaf2ff">AudioDesk</text>
 <text x="114" y="71" font-family="Consolas, Courier New, monospace" font-size="10" letter-spacing="0.6" fill="#7fa8d9">SONAR HELPER</text>
@@ -122,6 +125,17 @@
 <rect x="74" y="60" width="7" height="26" rx="1.5" fill="url(#eq)"><animate attributeName="height" values="26;46;34;20;26" dur="2.05s" repeatCount="indefinite"/><animate attributeName="y" values="60;40;52;66;60" dur="2.05s" repeatCount="indefinite"/></rect>
 <rect x="84" y="72" width="7" height="14" rx="1.5" fill="url(#eq)"><animate attributeName="height" values="14;28;42;30;14" dur="2.20s" repeatCount="indefinite"/><animate attributeName="y" values="72;58;44;56;72" dur="2.20s" repeatCount="indefinite"/></rect>
 <rect x="94" y="56" width="7" height="30" rx="1.5" fill="url(#eq)"><animate attributeName="height" values="30;16;24;44;30" dur="2.35s" repeatCount="indefinite"/><animate attributeName="y" values="56;70;62;42;56" dur="2.35s" repeatCount="indefinite"/></rect>
+<rect x="30" y="125" width="220" height="80" rx="10" fill="#0b1833" stroke="#2a5a9a" stroke-width="1.5"/>
+<text x="114" y="157" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#eaf2ff">CastDesk</text>
+<text x="114" y="176" font-family="Consolas, Courier New, monospace" font-size="10" letter-spacing="0.6" fill="#7fa8d9">YOUTUBE TO YOUR PC</text>
+<text x="114" y="190" font-family="Consolas, Courier New, monospace" font-size="10" letter-spacing="0.6" fill="#7fa8d9">C# · WEBVIEW2</text>
+<rect x="42" y="140" width="60" height="38" rx="5" fill="#071226" stroke="#2a5a9a" stroke-width="1.5"/>
+<rect x="62" y="182" width="20" height="4" rx="2" fill="#2a5a9a"/>
+<path d="M66 151 L80 159 L66 167Z" fill="#ffb04d"><animate attributeName="opacity" values="1;0.55;1" dur="1.6s" repeatCount="indefinite"/></path>
+<path d="M47 172 A3 3 0 0 1 50 175" fill="none" stroke="#5ee6ff" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M47 166 A9 9 0 0 1 56 175" fill="none" stroke="#5ee6ff" stroke-width="1.6" stroke-linecap="round"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" begin="0s" repeatCount="indefinite"/></path>
+<path d="M47 160 A15 15 0 0 1 62 175" fill="none" stroke="#5ee6ff" stroke-width="1.6" stroke-linecap="round"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" begin="0.3s" repeatCount="indefinite"/></path>
+<g transform="translate(0 105)">
 <rect x="30" y="125" width="220" height="80" rx="10" fill="#0b1833" stroke="#2a5a9a" stroke-width="1.5"/>
 <text x="114" y="157" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#eaf2ff">5.1 Surround</text>
 <text x="114" y="176" font-family="Consolas, Courier New, monospace" font-size="10" letter-spacing="0.6" fill="#7fa8d9">NETFLIX IN EDGE</text>
@@ -145,6 +159,8 @@
 <line x1="72" y1="276" x2="72" y2="261" stroke="#eaf2ff" stroke-width="2" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="-70 72 276;35 72 276;0 72 276;60 72 276;-70 72 276" dur="4s" repeatCount="indefinite"/></line>
 <circle cx="72" cy="276" r="2.5" fill="#eaf2ff"/>
 <polyline points="46,289 56,285 66,287 76,282 86,286 98,283" fill="none" stroke="#5ee6ff" stroke-width="1.2" opacity="0.8"/>
+</g>
+<g transform="translate(0 52.5)">
 <rect x="750" y="20" width="220" height="80" rx="10" fill="#0b1833" stroke="#2a5a9a" stroke-width="1.5"/>
 <text x="834" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#eaf2ff">Knob Hub</text>
 <text x="834" y="71" font-family="Consolas, Courier New, monospace" font-size="10" letter-spacing="0.6" fill="#7fa8d9">ESP32-S3 PC KNOB</text>
@@ -191,4 +207,5 @@
 <rect x="808" y="254" width="13" height="30" rx="2.5" fill="#36d39a" opacity="0.75"/>
 <rect x="758" y="252" width="17" height="34" rx="3.5" fill="none" stroke="#eaf2ff" stroke-width="1.8"><animate attributeName="x" values="758;774;790;806;790;774" dur="4.8s" calcMode="discrete" repeatCount="indefinite"/></rect>
 <rect x="760" y="290" width="61" height="3" rx="1.5" fill="#1d3a66"/>
+</g>
 </svg>
